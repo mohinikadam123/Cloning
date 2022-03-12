@@ -1,4 +1,4 @@
-package basic.programming.cloning;
+package CopyConstructor;
 
 public class TestCopyConstructor {
 	public static void main(String[] args)

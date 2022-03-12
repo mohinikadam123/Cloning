@@ -1,4 +1,4 @@
-package basic.programming.cloning;
+package CopyConstructor;
 
 public class Address2 {
 	String city;

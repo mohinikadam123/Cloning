@@ -1,4 +1,4 @@
-package basic.programming.cloning;
+package Deepcloning;
 
 public class Student1 implements Cloneable
 {
@@ -30,3 +30,4 @@ protected Object clone() throws CloneNotSupportedException {
 }
 
 }
+
